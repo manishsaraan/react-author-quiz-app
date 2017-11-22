@@ -1,7 +1,7 @@
 {
-  "name": "react_app",
+  "name": "quiz_author_react_app",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "Quiz Author React app",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --content-base ./ --env.dev",
